@@ -87,8 +87,8 @@ export const PRODUCTS: Product[] = [
     image: './product6.jpg',
     images: [
       './product6.jpg',
-      './product6.2.jpg',
-      './product6.3.jpg'
+      './product6.1.jpg',
+      './product6.2.jpg'
     ],
     category: 'Linen',
     rating: 5.0,
@@ -119,8 +119,8 @@ export const PRODUCTS: Product[] = [
     image: './product5.jpg',
     images: [
       './product5.jpg',
-      './product5.2.jpg',
-      './product5.3.jpg'
+      './product5.1.jpg',
+      './product5.2.jpg'
     ],
     category: 'Silk',
     rating: 4.9,
