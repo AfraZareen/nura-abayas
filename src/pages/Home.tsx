@@ -46,9 +46,9 @@ export default function Home() {
   return (
     <div id="home-page" className="bg-[#FCF8F4]">
       <SEO 
-        title="Home" 
-        description="Discover our new Spring/Summer collection of luxury abayas. Meticulously crafted abayas that blend centuries of tradition with contemporary luxury." 
-        keywords="luxury abayas, modern abaya, nura abayas, premium abaya, silk abaya"
+        title="Elegant Modest Fashion in UAE" 
+        description="Shop premium abayas with timeless elegance and modern modest fashion. Discover high-quality designs perfect for every occasion in the UAE." 
+        keywords="abaya, dubai abaya, modest fashion, luxury abaya, elegant abaya UAE, nura abayas"
       />
       {/* Hero Section */}
       <section id="hero" className="relative h-[90vh] flex items-center bg-[#F9F1EA] overflow-hidden">

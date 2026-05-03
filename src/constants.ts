@@ -19,7 +19,7 @@ export const PRODUCTS: Product[] = [
     id: '1',
     name: 'Silk Organza Abaya',
     price: 750,
-    description: 'A luxurious silk organza abaya with delicate hand-stitched details and wide sleeves for a regal look.',
+    description: 'A luxurious silk organza abaya with delicate hand-stitched details and wide sleeves for a regal look. This elegant piece represents the finest modest fashion from Dubai, perfect for high-end events in the UAE.',
     image: './pexels-bymalbus-35344026.jpg',
     images: [
       './pexels-bymalbus-35344026.jpg',
@@ -35,7 +35,7 @@ export const PRODUCTS: Product[] = [
     id: '2',
     name: 'Nude Linen Abaya',
     price: 450,
-    description: 'Minimalist linen abaya perfect for summer comfort and effortless style. Features an open front design.',
+    description: 'Minimalist linen abaya perfect for summer comfort and effortless style. Features an open front design that blends contemporary modest fashion with the traditional elegant silhouette favored in the UAE.',
     image: './pexels-bymalbus-35263628.jpg',
     images: [
       './pexels-bymalbus-35263628.jpg',
@@ -51,7 +51,7 @@ export const PRODUCTS: Product[] = [
     id: '3',
     name: 'Midnight Crepe Abaya',
     price: 580,
-    description: 'Sophisticated midnight blue crepe abaya with a subtle sheen and clean drapes.',
+    description: 'Sophisticated midnight blue crepe abaya with a subtle sheen and clean drapes. An elegant addition to any Dubai wardrobe, offering a modern take on timeless modest fashion for the discerning UAE woman.',
     image: './pexels-bymalbus-35263627.jpg',
     images: [
       './pexels-bymalbus-35263627.jpg',
@@ -67,7 +67,7 @@ export const PRODUCTS: Product[] = [
     id: '4',
     name: 'Nightfall Abaya',
     price: 620,
-    description: 'A ethereal sage green abaya made from premium chiffon with layered textures.',
+    description: 'A ethereal sage green abaya made from premium chiffon with layered textures. This elegant design captures the essence of modern modest fashion, handcrafted for those who appreciate Dubai luxury in the UAE.',
     image: './product4.jpg',
     images: [
       './product4.jpg',
@@ -83,7 +83,7 @@ export const PRODUCTS: Product[] = [
     id: '5',
     name: 'Blue Whisper Abaya',
     price: 780,
-    description: 'Premium velvet abaya in a soft dusty rose color, featuring intricate gold embroidery.',
+    description: 'Premium velvet abaya in a soft dusty rose color, featuring intricate gold embroidery. An elegant and warm choice for modest fashion enthusiasts in the UAE, designed with the opulence of Dubai style.',
     image: './product6.jpg',
     images: [
       './product6.jpg',
@@ -99,7 +99,7 @@ export const PRODUCTS: Product[] = [
     id: '6',
     name: 'Sage Green Abaya',
     price: 480,
-    description: 'Modern pleated details on a soft fabric. Lightweight and breathable for daily wear.',
+    description: 'Modern pleated details on a soft fabric. Lightweight and breathable for daily wear, this elegant abaya is a staple for modest fashion in Dubai and throughout the UAE.',
     image: './product8.jpg',
     images: [
       './product8.jpg',
@@ -115,7 +115,7 @@ export const PRODUCTS: Product[] = [
     id: '7',
     name: 'Onyx Shadow Abaya',
     price: 690,
-    description: 'Classic black abaya with a modern twist. High-grade silk with matte finish.',
+    description: 'Classic black abaya with a modern twist. High-grade silk with matte finish makes it an elegant choice for any Dubai occasion, perfectly balancing tradition and modern modest fashion in the UAE.',
     image: './product5.jpg',
     images: [
       './product5.jpg',
@@ -131,7 +131,7 @@ export const PRODUCTS: Product[] = [
     id: '8',
     name: 'Royal Red Kaftan',
     price: 800,
-    description: 'The ultimate luxury kaftan with gold thread embroidery on premium silk.',
+    description: 'The ultimate luxury kaftan with gold thread embroidery on premium silk. An elegant masterpiece of modest fashion, reflecting the royal aesthetic of Dubai and the rich heritage of the UAE.',
     image: './product7.jpg',
     images: [
       './product7.jpg',
