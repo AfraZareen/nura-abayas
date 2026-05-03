@@ -183,12 +183,12 @@ export default function Checkout() {
                   <h2 className="text-2xl font-serif text-[#4A3F35] mb-8">Payment Method</h2>
                   <div className="space-y-4">
                     {[
-                      { id: 'tabby', label: 'Tabby (4 interest-free payments)', icon: '/tabby-logo.svg' },
-                      { id: 'visa', label: 'Visa', icon: '/Visa_Inc.-Logo.wine.svg' },
-                      { id: 'mastercard', label: 'Mastercard', icon: '/Mastercard-Logo.wine.svg' },
-                      { id: 'apple_pay', label: 'Apple Pay', icon: '/Apple_Pay-Logo.wine.svg' },
-                      { id: 'samsung_pay', label: 'Samsung Pay', icon: '/Samsung_Pay-Logo.wine.svg' },
-                      { id: 'paypal', label: 'PayPal', icon: '/PayPal-Logo.wine.svg' },
+                      { id: 'tabby', label: 'Tabby (4 interest-free payments)', icon: './tabby-logo.svg' },
+                      { id: 'visa', label: 'Visa', icon: './Visa_Inc.-Logo.wine.svg' },
+                      { id: 'mastercard', label: 'Mastercard', icon: './Mastercard-Logo.wine.svg' },
+                      { id: 'apple_pay', label: 'Apple Pay', icon: './Apple_Pay-Logo.wine.svg' },
+                      { id: 'samsung_pay', label: 'Samsung Pay', icon: './Samsung_Pay-Logo.wine.svg' },
+                      { id: 'paypal', label: 'PayPal', icon: './PayPal-Logo.wine.svg' },
                       { id: 'cod', label: 'Cash on Delivery', icon: '' }
                     ].map((method) => (
                       <label

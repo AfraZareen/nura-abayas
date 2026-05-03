@@ -25,7 +25,7 @@ export default function About() {
           >
             <div className="aspect-[4/5] rounded-[40px] overflow-hidden">
                <img
-                 src="/pexels-bymalbus-35475150.jpg"
+                 src="./pexels-bymalbus-35475150.jpg"
                  alt="Artisan crafting a luxury Nura Abaya"
                  className="w-full h-full object-cover"
                  referrerPolicy="no-referrer"

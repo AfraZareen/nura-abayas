@@ -121,12 +121,12 @@ export default function Cart() {
                 <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
               </Link>
               <div className="mt-8 flex flex-wrap justify-center gap-4 opacity-50 grayscale hover:grayscale-0 transition-all">
-                 <img src="/Visa_Inc.-Logo.wine.svg" alt="Visa" className="h-6" />
-                 <img src="/Mastercard-Logo.wine.svg" alt="Mastercard" className="h-6" />
-                 <img src="/Apple_Pay-Logo.wine.svg" alt="Apple Pay" className="h-6" />
-                 <img src="/tabby-logo.svg" alt="Tabby" className="h-6" />
-                 <img src="/Samsung_Pay-Logo.wine.svg" alt="Samsung Pay" className="h-6" />
-                 <img src="/PayPal-Logo.wine.svg" alt="PayPal" className="h-6" />
+                 <img src="./Visa_Inc.-Logo.wine.svg" alt="Visa" className="h-6" />
+                 <img src="./Mastercard-Logo.wine.svg" alt="Mastercard" className="h-6" />
+                 <img src="./Apple_Pay-Logo.wine.svg" alt="Apple Pay" className="h-6" />
+                 <img src="./tabby-logo.svg" alt="Tabby" className="h-6" />
+                 <img src="./Samsung_Pay-Logo.wine.svg" alt="Samsung Pay" className="h-6" />
+                 <img src="./PayPal-Logo.wine.svg" alt="PayPal" className="h-6" />
               </div>
             </div>
           </div>
