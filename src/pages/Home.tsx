@@ -17,19 +17,19 @@ export default function Home() {
   
   const slides = [
     {
-      image: "/pexels-bymalbus-35591540.jpg",
+      image: "./pexels-bymalbus-35591540.jpg",
       title: "Luminous",
       emphasis: "Silk",
       tagline: "The Organza Series"
     },
     {
-      image: "/pexels-bymalbus-35344030.jpg",
+      image: "./pexels-bymalbus-35344030.jpg",
       title: "Onyx",
       emphasis: "Elegance",
       tagline: "Signature Noir Collection"
     },
     {
-      image: "/product7.2.jpg",
+      image: "./product7.2.jpg",
       title: "Golden",
       emphasis: "Heritage",
       tagline: "Royal Kaftan Edition"
