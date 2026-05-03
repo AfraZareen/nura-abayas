@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { BrowserRouter, Routes, Route, ScrollRestoration } from 'react-router-dom';
+import { HashRouter, Routes, Route, ScrollRestoration } from 'react-router-dom';
 import Layout from './components/layout/Layout';
 import Home from './pages/Home';
 import Shop from './pages/Shop';
@@ -30,7 +30,7 @@ import React from 'react';
 export default function App() {
   return (
     <CartProvider>
-      <BrowserRouter>
+      <HashRouter>
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Layout />}>
@@ -43,7 +43,7 @@ export default function App() {
             <Route path="about" element={<About />} />
           </Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </CartProvider>
   );
 }
